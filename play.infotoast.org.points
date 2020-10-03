@@ -14,3 +14,4 @@ name:the thing,x:2162,z:1120,y:82,enabled:true,red:0.0,green:0.5803922,blue:0.54
 name:Project Premium,x:-442,z:221,y:74,enabled:true,red:0.023529412,green:0.8666667,blue:0.49411765,suffix:axe,world:,dimensions:overworld#
 name:Monument to Vanity,x:-1407,z:112,y:43,enabled:true,red:0.9882353,green:0.74509805,blue:0.047058824,suffix:temple,world:,dimensions:overworld#
 name:ice,x:-851,z:842,y:65,enabled:true,red:0.34330398,green:0.62158024,blue:0.8249627,suffix:,world:,dimensions:overworld#
+name:pretty-plains,x:-2117,z:-1054,y:67,enabled:true,red:0.32850587,green:0.86010367,blue:0.32912135,suffix:,world:,dimensions:overworld#
