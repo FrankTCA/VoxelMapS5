@@ -13,3 +13,5 @@ name:nether fort,x:-22120,z:-4200,y:77,enabled:true,red:0.5496997,green:0.049550
 name:nether fort,x:-20664,z:-2576,y:53,enabled:true,red:0.7607843,green:0.10980392,blue:0.3019608,suffix:,world:,dimensions:the_nether#
 name:the thing,x:2162,z:1120,y:82,enabled:true,red:0.0,green:0.5803922,blue:0.54901963,suffix:,world:,dimensions:overworld#
 name:Alpha House 2,x:-459,z:245,y:74,enabled:true,red:0.98039216,green:0.9098039,blue:0.9137255,suffix:cloud,world:,dimensions:overworld#
+name:Sand,x:-94,z:344,y:66,enabled:true,red:0.78431374,green:0.7882353,blue:0.0,suffix:,world:,dimensions:overworld#
+name:Ice,x:-722,z:388,y:72,enabled:true,red:0.1764706,green:1.0,blue:0.89411765,suffix:axe,world:,dimensions:overworld#
