@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 subworlds:
 oldNorthWorlds:
 seeds:
@@ -17,3 +18,9 @@ name:ice,x:-851,z:842,y:65,enabled:true,red:0.34330398,green:0.62158024,blue:0.8
 name:pretty-plains,x:-2117,z:-1054,y:67,enabled:true,red:0.32850587,green:0.86010367,blue:0.32912135,suffix:,world:,dimensions:overworld#the_end#
 name:Alpha House 2,x:-459,z:245,y:74,enabled:true,red:0.98039216,green:0.9098039,blue:0.9137255,suffix:cloud,world:,dimensions:overworld#the_end#
 name:std-birch-forest,x:-2940,z:-3,y:71,enabled:true,red:0.010892272,green:0.71109957,blue:0.7823367,suffix:,world:,dimensions:overworld#the_end#
+=======
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Alpha's Second House,x:-436,z:239,y:81,enabled:true,red:0.003921569,green:0.72156864,blue:0.65882355,suffix:,world:,dimensions:overworld#
+>>>>>>> 3f7a8b33b3db2bc07519e06f11185dbd4f40dcef
